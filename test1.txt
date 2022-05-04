@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C6CF-00CC
+
+ Directory of C:\Users\KUMS2161\Desktop\MyProject
+
+05/03/2022  10:40 PM    <DIR>          .
+05/03/2022  10:40 PM    <DIR>          ..
+05/03/2022  10:40 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  187,758,673,920 bytes free
